@@ -53,11 +53,12 @@ This prevents search engines from indexing the page.
 For additional protection, you may add a robots.txt file:
 User-agent: *
 Disallow: /
-📁 Project Structure
-/project-folder
-│
-├── bratwurst.php
-└── bestellungen.json (auto-created)
+
+##Project Structure
+/project-folder  
+│  
+├── bratwurst.php  
+└── bestellungen.json (auto-created)  
 
 ## Security Notes
 This project is intentionally simple.
@@ -65,7 +66,7 @@ There is no authentication for order submission.
 Anyone with the link can submit orders.
 The admin URL should not be shared publicly.
 For production use on a public server, consider:
-Using HTTPS
-Using reverse proxy
-Moving credentials outside the web root
-Adding basic authentication
+* Using HTTPS
+* Using reverse proxy
+* Moving credentials outside the web root
+* Adding basic authentication

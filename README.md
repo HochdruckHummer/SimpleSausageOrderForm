@@ -13,7 +13,7 @@ Perfect for small clubs, amateur radio groups, sport clubs or community events.
 ## Features
 Participants enter:
 * Name (required)
-* Callsign (optional) - can also be repurposed for some othr identification like player number, member number and so on.
+* Callsign (optional) - can also be repurposed for some other identification like player number, member number and so on.
 * Number of bratwursts (sausages) to be ordered
 
 * Orders are stored in a local JSON file
@@ -28,7 +28,7 @@ Write permissions in the project directory
 No database required.
 
 ## Installation
-Upload the PHP file (e.g. bratwurst.php) to your web server.
+Upload the PHP file (e.g. index.php) to your web server.
 Make sure the directory is writable by PHP.
 Open the page in your browser:
 https://your-server.com/bratwurst.php
@@ -37,7 +37,7 @@ The file bestellungen.json will be created automatically.
 ## Admin Reset
 The admin panel is hidden by default.
 To access it, append the secret key to the URL:
-https://your-server.com/bratwurst.php?admin=YOUR_SECRET_KEY
+https://your-server.com/index.php?admin=YOUR_SECRET_KEY
 Inside the code, you can configure:
 $adminPassword = 'YOUR_ADMIN_PASSWORD';
 $adminSecretKey = 'YOUR_SECRET_KEY';

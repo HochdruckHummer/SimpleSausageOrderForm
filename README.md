@@ -1,6 +1,8 @@
 # SimpleSausageOrderForm
 This is a lightweight order form for small groups to make ordering sausages for club members more easy. Security is completely neglected. Should not be openly published. Saves orders in a JSON file. Can be reset via secret link.
 
+
+
 ## Designed for simplicity:
 No database required
 No authentication system
@@ -10,14 +12,15 @@ Perfect for small clubs, amateur radio groups, sport clubs or community events.
 
 ## Features
 Participants enter:
-Name (required)
-Callsign (optional) - can also be repurposed for some othr identification like player number, member number and so on.
-Number of bratwursts (sausages) to be ordered
-Orders are stored in a local JSON file
-Automatic total calculation
-Mobile-friendly layout
-Admin reset functionality (via secret link)
-Search engines are prevented from indexing the page
+*Name (required)
+*Callsign (optional) - can also be repurposed for some othr identification like player number, member number and so on.
+*Number of bratwursts (sausages) to be ordered
+
+*Orders are stored in a local JSON file
+*Automatic total calculation
+*Mobile-friendly layout
+*Admin reset functionality (via secret link)
+*Search engines are prevented from indexing the page
 
 ## Requirements
 PHP 7.0 or higher

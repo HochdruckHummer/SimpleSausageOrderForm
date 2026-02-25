@@ -35,16 +35,15 @@ https://your-server.com/index.php
 The file orders.json will be created automatically.
 
 ## Admin Reset
-The admin panel is hidden by default.
-To access it, append the secret key to the URL:
-https://your-server.com/index.php?admin=YOUR_SECRET_KEY
-Inside the code, you can configure:
-$adminPassword = 'YOUR_ADMIN_PASSWORD';
-$adminSecretKey = 'YOUR_SECRET_KEY';
+The admin panel is hidden by default. To access it, append the secret key to the URL:  
+https://your-server.com/index.php?admin=YOUR_SECRET_KEY  
+Inside the code, you can configure:  
+$adminPassword = 'YOUR_ADMIN_PASSWORD';  
+$adminSecretKey = 'YOUR_SECRET_KEY';  
 To reset all orders:
-Open the admin URL
-Enter the admin password
-Click "Reset orders"
+1. Open the admin URL
+2. Enter the admin password
+3. Click "Reset orders"
 
 ## Preventing Search Engine Indexing
 The page includes:

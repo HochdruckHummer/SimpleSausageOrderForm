@@ -56,9 +56,8 @@ Disallow: /
 
 ##Project Structure
 /project-folder  
-│  
-├── bratwurst.php  
-└── bestellungen.json (auto-created)  
+├── index.php  
+└── orders.json (auto-created)  
 
 ## Security Notes
 This project is intentionally simple.

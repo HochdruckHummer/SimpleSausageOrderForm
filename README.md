@@ -53,7 +53,7 @@ For additional protection, you may add a robots.txt file:
 User-agent: *
 Disallow: /
 
-##Project Structure
+## Project Structure
 /project-folder  
 ├── index.php  
 └── orders.json (auto-created)  

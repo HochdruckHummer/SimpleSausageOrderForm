@@ -1,7 +1,7 @@
 # SimpleSausageOrderForm
 This is a lightweight order form for small groups to make ordering sausages for club members more easy. Security is completely neglected. Should not be openly published. Saves orders in a JSON file. Can be reset via secret link.
 
-
+<img width="642" height="621" alt="Bildschirmfoto 2026-02-25 um 20 14 24" src="https://github.com/user-attachments/assets/6a3e2c8e-4287-40d9-a58c-7827f9349bf0" />
 
 ## Designed for simplicity:
 No database required

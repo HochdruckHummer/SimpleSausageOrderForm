@@ -4,11 +4,11 @@ This is a lightweight order form for small groups to make ordering sausages for 
 <img width="642" height="621" alt="Bildschirmfoto 2026-02-25 um 20 14 24" src="https://github.com/user-attachments/assets/6a3e2c8e-4287-40d9-a58c-7827f9349bf0" />
 
 ## Designed for simplicity:
-No database required
-No authentication system
-No external dependencies
-Works on any standard PHP web hosting
-Perfect for small clubs, amateur radio groups, sport clubs or community events.
+* No database required
+* No authentication system
+* No external dependencies
+* Works on any standard PHP web hosting
+* Perfect for small clubs, amateur radio groups, sport clubs or community events.
 
 ## Features
 Participants enter:

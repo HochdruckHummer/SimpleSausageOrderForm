@@ -31,8 +31,8 @@ No database required.
 Upload the PHP file (e.g. index.php) to your web server.
 Make sure the directory is writable by PHP.
 Open the page in your browser:
-https://your-server.com/bratwurst.php
-The file bestellungen.json will be created automatically.
+https://your-server.com/index.php
+The file orders.json will be created automatically.
 
 ## Admin Reset
 The admin panel is hidden by default.
